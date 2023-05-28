@@ -11,4 +11,11 @@
         <maven.compiler.target>19</maven.compiler.target>
         <exec.mainClass>proyecto.proyecto.Proyecto</exec.mainClass>
     </properties>
+    <dependencies>
+        <dependency>
+            <groupId>org.json</groupId>
+            <artifactId>json</artifactId>
+            <version>20210307</version>
+        </dependency> 
+    </dependencies>
 </project>
